@@ -47,7 +47,7 @@ I am currently building projects which are common business workflows in my targe
 To build my professional foundations better, I am looking to currently work as a Data Analyst. Things always start with understanding what the data is telling us. My long term goal is to take that step further after some experience, and work as a Data Scientist to aid in producing valuable insights, strategy via models, and positive business outcomes.
 
 ## How To Reach Sri? 📫
-Email: sverma7@protonmail.com
-LinkedIn: linkedin.com/srijatverma
+- Email: sverma7@protonmail.com
+- LinkedIn: linkedin.com/srijatverma
 
 **Thank You For Your Time! I am always open to conversations about data science, analytics, and opportunities in Finance, Energy, and Supply Chain! Looking forward to hearing from you!**
