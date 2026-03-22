@@ -42,6 +42,7 @@ I am currently building projects which are common business workflows in my targe
 - Loan Eligibility Feature Analysis | Feature Importance | Finance
 - SKU Promotional Optimisation | Network Science | Supply Chain
 - Analytics — E-Commerce Supply Chain | SQL · PostgreSQL · Power BI | Supply Chain
+- *Energy Sector Project | In Planning*
 
 ## What Sri Is Looking For 👯
 To build my professional foundations better, I am looking to currently work as a Data Analyst. Things always start with understanding what the data is telling us. My long term goal is to take that step further after some experience, and work as a Data Scientist to aid in producing valuable insights, strategy via models, and positive business outcomes.
