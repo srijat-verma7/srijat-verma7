@@ -4,9 +4,11 @@
 As my username has given it away, I am Srijat Verma. You can call me Sri, an aspiring Data Analyst transitioning into the Finance, Energy, or Supply Chain industry. 
 
 ## What Was Sri Up To? 🌱
-With more than 7 years of experience in APAC, the Middle East, and the Americas working in the infrastructure industry — specifically in data-driven design technology known as Building Information Modelling — I transitioned into data science by formalising my analytical interest through a Master of Science in Data Science. Building Information Modelling helped extract structured data for every project to analyse costs, quantity, and design performance for coordination, hence providing insights to produce better outcomes with efficient budgets.
+With more than 7 years of experience in APAC, the Middle East, and the Americas working in the infrastructure industry — specifically in data-driven design technology known as Building Information Modelling — I transitioned into data science by formalising my analytical interest through a Master of Science in Data Science. 
 
-My experience gave me the opportunity to play useful roles, namely Innovation Enablement Associate and Team Lead, and spearheading Digital Transformation. These roles helped me work on project of large scale, work on team coordination with different disciplines, and give me an international perspective.
+Building Information Modelling helped extract structured data for every project to analyse costs, quantity, and design performance, providing insights to produce better outcomes with efficient budgets.
+
+These roles spanned large-scale international projects across APAC, the Middle East, and the Americas, giving me hands-on experience in team coordination, cross-disciplinary collaboration, and budget management.
 
 ## What Has Sri Studied?
 ### Asian Institute of Management 2026 | Makati City, Philippines
