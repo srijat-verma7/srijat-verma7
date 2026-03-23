@@ -1,10 +1,10 @@
 # Welcome to Srijat's GitHub Page
 
 ## Hi There! 👋
-As my username has given it away, I am Srijat Verma. You can call me Sri, an aspiring Data Analyst transitioning into the Finance, Energy, or Supply Chain industry. 
+As my username has given it away, I am Srijat Verma. You can call me Sri, an aspiring **Data Analyst** transitioning into the **Finance, Energy, or Supply Chain** industry. 
 
 ## What Was Sri Up To? 🌱
-With more than 7 years of experience in APAC, the Middle East, and the Americas working in the infrastructure industry — specifically in data-driven design technology known as Building Information Modelling — I transitioned into data science by formalising my analytical interest through a Master of Science in Data Science. 
+With **more than 7 years** of experience in **APAC, the Middle East, and the Americas** working in the infrastructure industry — specifically in data-driven design technology known as Building Information Modelling — I transitioned into data science by formalising my analytical interest through a **Master of Science in Data Science**. 
 
 Building Information Modelling helped extract structured data for every project to analyse costs, quantity, and design performance, providing insights to produce better outcomes with efficient budgets.
 
@@ -26,17 +26,17 @@ I bring the right mix of technical expertise in order to produce positive busine
 - What should the business do to meet those goals, and what does the analysis say will work?
 
 ### Technical
-I work with Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, and Excel, utilising Exploratory Data Analysis, Power BI, and Data Visualisation for business intelligence and storytelling. To have an efficient workflow, I work on GitHub for team collaboration and version control.
+I work with **Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, and Excel, utilising Exploratory Data Analysis, Power BI, and Data Visualisation** for business intelligence and storytelling. To have an efficient workflow, I work on **GitHub** for team collaboration and version control.
 
 ### Business Administration
-I have worked on Budget Management, Cost Analysis, and Digital Transformation, along with leading teams through Project Management, Leadership, and Mentoring. Having dealt with clients in the past has given me the skill to communicate with Stakeholders efficiently to understand their needs and deliver the outcome they look for.
+I have worked on **Budget Management, Cost Analysis, and Digital Transformation**, along with leading teams through **Project Management**, Leadership, and Mentoring. Having dealt with clients in the past has given me the skill to **communicate with Stakeholders** efficiently to understand their needs and deliver the outcome they look for.
 
 ## Sri's Projects 🔭
 ### What has Sri Worked On?
 My current complete project is:
 - Spatial Paradox Mapping: Flood Risk vs. Project Investment. It was a Geospatial Analysis project utilising: Python· PostgreSQL/PostGIS· GeoPandas· pysheds· EDA
   - Spearheaded end-to-end development of a flood risk mapping study across 4 Metro Manila cities, independently designing the analytical framework and executing the full data pipeline
-  - Key findings: 37% of the study area identified as persistently underprotected, with Marikina recording the highest risk-to-protection gap and an evidence-based funding estimate of ₱7.05B to close the infrastructure gap.
+  - Key findings: **37%** of the study area identified as persistently underprotected, with Marikina recording the highest risk-to-protection gap and an evidence-based **funding estimate of ₱7.05B** to close the infrastructure gap.
 
 ### What is Sri Working on Now?
 I am currently building projects which are common business workflows in my target industries of Finance, Energy, and Supply Chain.
