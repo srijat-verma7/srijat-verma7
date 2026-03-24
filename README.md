@@ -1,7 +1,7 @@
 # Welcome to Srijat's GitHub Page
 
 ## Hi There! 👋
-As my username has given it away, I am Srijat Verma. You can call me Sri, an aspiring **Data Analyst** transitioning into the **Finance, Energy, or Supply Chain** industry. 
+As my username has given it away, I am Srijat Verma. You can call me Sri, an aspiring **Data Analyst** transitioning into the **Finance, Healthcare/Pharma, or Supply Chain** industry. 
 
 ## What Was Sri Up To? 🌱
 With **more than 7 years** of experience in **APAC, the Middle East, and the Americas** working in the infrastructure industry — specifically in data-driven design technology known as Building Information Modelling — I transitioned into data science by formalising my analytical interest through a **Master of Science in Data Science**. 
@@ -44,7 +44,7 @@ I am currently building projects which are common business workflows in my targe
 - Loan Eligibility Feature Analysis | Feature Importance | Finance
 - SKU Promotional Optimisation | Network Science | Supply Chain
 - Analytics — E-Commerce Supply Chain | SQL · PostgreSQL · Power BI | Supply Chain
-- *Energy Sector Project | In Planning*
+- *Healthcare/Pharma Sector Project | In Planning*
 
 ## What Sri Is Looking For 👯
 To build my professional foundations better, I am looking to currently work as a Data Analyst. Things always start with understanding what the data is telling us. My long term goal is to take that step further after some experience, and work as a Data Scientist to aid in producing valuable insights, strategy via models, and positive business outcomes.
@@ -53,4 +53,4 @@ To build my professional foundations better, I am looking to currently work as a
 - Email: sverma7@protonmail.com
 - LinkedIn: linkedin.com/srijatverma
 
-**Thank You For Your Time! I am always open to conversations about data science, analytics, and opportunities in Finance, Energy, and Supply Chain! Looking forward to hearing from you!**
+**Thank You For Your Time! I am always open to conversations about data science, analytics, and opportunities in Finance, Healthcare/Pharma, and Supply Chain! Looking forward to hearing from you!**
