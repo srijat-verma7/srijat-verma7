@@ -1,7 +1,7 @@
 # Welcome to Srijat's GitHub Page
 
 ## Hi There! 👋
-As my username has given it away, I am Srijat Verma. You can call me Sri, an aspiring **Data Analyst** transitioning into the **Finance, Healthcare/Pharma, or Supply Chain** industry. 
+As my username has given it away, I am Srijat Verma. You can call me Sri, an aspiring **Data Science and Analysis**. 
 
 ## What Was Sri Up To? 🌱
 With **more than 7 years** of experience in **APAC, the Middle East, and the Americas** working in the infrastructure industry — specifically in data-driven design technology known as Building Information Modelling — I transitioned into data science by formalising my analytical interest through a **Master of Science in Data Science**. 
@@ -14,7 +14,7 @@ These roles spanned large-scale international projects across APAC, the Middle E
 ### Asian Institute of Management 2026 | Makati City, Philippines
 Master of Science in Data Science· Minor: Management
 - Career Services Office Ambassador — represented the student body and co-led institutional activities.
-- Relevant subjects: Machine Learning, Cloud Computing, Data Vis, Financial & Leadership Management
+- Relevant subjects: Geospatial Analysis, Machine Learning, Cloud Computing, Data Vis, Financial & Leadership Management
 
 ### National Institute of Technology 2016 | Bhopal, India
 Bachelor of Architecture
@@ -26,7 +26,7 @@ I bring the right mix of technical expertise in order to produce positive busine
 - What should the business do to meet those goals, and what does the analysis say will work?
 
 ### Technical
-I work with **Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, and Excel, utilising Exploratory Data Analysis, Power BI, and Data Visualisation** for business intelligence and storytelling. To have an efficient workflow, I work on **GitHub** for team collaboration and version control.
+I work with **Python (Pandas, NumPy, Matplotlib, Seaborn), GeoPandas, pysheds, ArcGIS, PostGreSQL, and Excel, utilising Exploratory Data Analysis, Power BI, and Data Visualisation** for business intelligence and storytelling. To have an efficient workflow, I work on **GitHub** for team collaboration and version control.
 
 ### Business Administration
 I have worked on **Budget Management, Cost Analysis, and Digital Transformation**, along with leading teams through **Project Management**, Leadership, and Mentoring. Having dealt with clients in the past has given me the skill to **communicate with Stakeholders** efficiently to understand their needs and deliver the outcome they look for.
@@ -39,7 +39,7 @@ My current complete project is:
   - Key findings: **37%** of the study area identified as persistently underprotected, with Marikina recording the highest risk-to-protection gap and an evidence-based **funding estimate of ₱7.05B** to close the infrastructure gap.
 
 ### What is Sri Working on Now?
-I am currently building projects which are common business workflows in my target industries of Finance, Energy, and Supply Chain.
+I am currently building following projects:.
 - Bank Customer Churn Prediction | Classification | Finance
 - Loan Eligibility Feature Analysis | Feature Importance | Finance
 - SKU Promotional Optimisation | Network Science | Supply Chain
@@ -47,10 +47,10 @@ I am currently building projects which are common business workflows in my targe
 - *Healthcare/Pharma Sector Project | In Planning*
 
 ## What Sri Is Looking For 👯
-To build my professional foundations better, I am looking to currently work as a Data Analyst. Things always start with understanding what the data is telling us. My long term goal is to take that step further after some experience, and work as a Data Scientist to aid in producing valuable insights, strategy via models, and positive business outcomes.
+I am looking to currently work as a Data Scientist, Analyst, or Geospatial Analyst. Things always start with understanding what the data is telling us. My long term goal is to take that step further after some experience, and work as a Data Scientist to aid in producing valuable insights, strategy via models, and positive business outcomes.
 
 ## How To Reach Sri? 📫
 - Email: sverma7@protonmail.com
 - LinkedIn: linkedin.com/srijatverma
 
-**Thank You For Your Time! I am always open to conversations about data science, analytics, and opportunities in Finance, Healthcare/Pharma, and Supply Chain! Looking forward to hearing from you!**
+**Thank You For Your Time! I am always open to conversations about data science, analytics, and opportunities! Looking forward to hearing from you!**
